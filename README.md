@@ -1,7 +1,9 @@
 # flickr
 Flickr search application written in Swift, with SwiftUI and Combine. This project searches for images using Flickr API and displays in 3 column grid with endless scrolling.
 
+<img width="294" height="640" alt="WelcomeM" src="https://github.com/user-attachments/assets/99af71bb-1900-4d17-8d57-70089e117ea3" />
 <img width="294" height="640" alt="FlickrImageSearchM" src="https://github.com/user-attachments/assets/1ae229a4-732f-43ec-8f6a-b2804bdbba3a" />
+<img width="294" height="640" alt="DetailsM" src="https://github.com/user-attachments/assets/76be422d-b9d0-444c-a077-4f2e410ba7bf" />
 
 ## Getting Started
 
