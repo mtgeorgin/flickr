@@ -7,7 +7,7 @@ Flickr search application written in Swift, with SwiftUI and Combine. This proje
 
 ## Getting Started
 
-- Clone the repo and run FlickrSearch.xcodeproj
+- Clone the repo and run FlickrImageSearch.xcodeproj
 - Run the project and search for any keyword like "kittens".
 - The application uses the ViewInspector package for Unit Testing.
 
