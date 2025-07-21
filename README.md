@@ -15,7 +15,7 @@ Flickr search application written in Swift, with SwiftUI and Combine. This proje
 The application is built as a pure SwiftUI app utilising Combine to coordinate image fetching. The Flickr search API returns a list of thumbnail image urls and additional data for more detailed image fetching.
 
 ### Views
-- **ImageGridView**: The main SwiftUI view that lays out the image thumbnails in a grid three images wide. It includes text input for search term entry and validation. It incorporates endless scrolling.
+- **ImageGridView**: The main SwiftUI view that lays out the image thumbnails in a grid three images wide. It includes text input for search term entry and validation, at least two characters are required. It incorporates endless scrolling.
 - **ThumbnailView**: A component used in ImageGridView that encapulates the thumbnail image, which is fetched and cached using **AsyncImage** via the thumbnail URL
 - **DetailView**: This SwiftUI view displays the full resolution image after clicking on a thumbnail on the ImageGridView.
 - **InitialView**: This provides a landing page to instruct the user.
